@@ -5,4 +5,4 @@ JShell resembling a unix shell made with java that performs all the commands tha
 timeline within a group of 3.
 - Incrementally developed the application with fluctuating requirements from client
 - Delivered a Java shell capable of emulating the commands: mkdir, cd, ls, pwd, mv, cp,
-cat, curl, pushd, popd, history, !n, and grep 
+cat, curl, pushd, popd, printd, history, !n, save, exit, find, evalinput, get and grep 
